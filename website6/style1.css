@@ -1,0 +1,22 @@
+footer {
+    font-size: 0.8rem;
+    padding: 20px;
+    text-align: center;
+  }
+  
+
+  footer a {
+    color: #4a4a4a;
+    text-decoration: none;
+    margin: 5px;
+  }
+  
+  footer p {
+    margin-bottom: 0;
+  }
+  footer img {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin-right: 30px;
+  }
